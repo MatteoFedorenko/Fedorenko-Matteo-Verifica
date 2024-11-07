@@ -1,0 +1,56 @@
+body {
+    background-color:antiquewhite;
+}
+div {
+    font-size: 50px;
+    height: 100%;
+    display:inline-flexbox;
+    place-items: center;   
+}
+
+p {
+    font-size: 30px;
+    height: 100%;
+    display: grid;
+    place-items: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: violet;
+    background-color: aliceblue;
+}
+
+.Uno1 {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black; 
+    background-color: aqua;
+    font-style:oblique;
+}
+
+.Due2 {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:brown; 
+    background-color:azure;
+}
+
+.Tre3 {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:gainsboro; 
+    background-color: ghostwhite;
+}
+
+.Quatro4 {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: salmon; 
+    background-color:cyan;
+    font-style: italic;
+}
+
+.Cinque5{
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:lavenderblush; 
+    background-color: black;
+}
